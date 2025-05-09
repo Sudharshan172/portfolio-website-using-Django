@@ -18,8 +18,8 @@ This is a personal portfolio website built using **HTML**, **CSS**, **Bootstrap*
 - **Python**
 - **Django**
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Sudharshan172/portfolio-website.git
+   git clone https://github.com/Sudharshan172/portfolio-website-using-Django
